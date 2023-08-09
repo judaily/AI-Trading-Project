@@ -3,24 +3,6 @@
 ## Description
 빅데이터 기반 AI알고리즘 16기 1조 (피스메이커) - 증권사 API를 이용한 자동 매수/매도 시스템
 
-## Enviroment
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-    <p id="copyText">----</p>
-    <button onclick="copyToClipboard()">복사하기</button>
-</body>
-</html>
-
-
-
-
-
-
-
 ## 구성원
 <table>
   <thead>
