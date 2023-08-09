@@ -1,8 +1,7 @@
 # AI-Trading-Project
-증권사 API를 이용한 자동 매수/매도 시스템
 
 ## Description
-빅데이터 기반 AI알고리즘 16기 1조 (피스메이커)
+빅데이터 기반 AI알고리즘 16기 1조 (피스메이커) - 증권사 API를 이용한 자동 매수/매도 시스템
 
 ## Enviroment
 <!DOCTYPE html>
@@ -13,9 +12,7 @@
 <body>
     <p id="copyText"></p>
     <button onclick="copyToClipboard()"></button>
-
     ----
-    </script>
 </body>
 </html>
 
