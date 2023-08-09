@@ -12,17 +12,6 @@
 <body>
     <p id="copyText">----</p>
     <button onclick="copyToClipboard()">복사하기</button>
-
-    <script>
-        function copyToClipboard() {
-            const textToCopy = "----";
-            navigator.clipboard.writeText(textToCopy).then(function() {
-                alert("텍스트가 복사되었습니다: " + textToCopy);
-            }).catch(function(err) {
-                console.error('복사 실패: ', err);
-            });
-        }
-    </script>
 </body>
 </html>
 
