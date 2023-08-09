@@ -23,7 +23,7 @@
   <tbody>
 |제목|내용|설명|
 |------|---|
-|정윤영 (팀장)|주식 보조 지표, 강화학습 모델 구현|
+||주식 보조 지표, 강화학습 모델 구현|
 |김단비|테스트2|
 |민유진|테스트2|
 |박명윤|테스트2|
@@ -39,14 +39,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-     <tr/>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 부팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b>FE 정윤영 (팀장) : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 김단비 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 민유진 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 박명윤 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 박수연 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 여주원 : </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 윤광현 : </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
