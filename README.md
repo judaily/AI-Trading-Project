@@ -15,7 +15,7 @@
 
     <script>
         function copyToClipboard() {
-            const textToCopy = document.getElementById("copyText").innerText;
+            const textToCopy = "----";
             const tempInput = document.createElement("textarea");
             tempInput.value = textToCopy;
             document.body.appendChild(tempInput);
@@ -27,6 +27,7 @@
     </script>
 </body>
 </html>
+
 
 
 
