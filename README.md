@@ -32,7 +32,7 @@
 |윤광현|테스트2|
 |이예정|테스트2|
 |이창민|테스트2|
-|테스트1|테스트2|
+
  </tbody>
 </table>
 
@@ -46,10 +46,38 @@
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 박수연 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 여주원 </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 윤광현 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 이예정 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 이창민 </b></sub></a><br /></td>
     </td>
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>역할</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>배현지</td>
+      <td>어플리케이션 개발</td>
+    </tr>
+    <tr>
+      <td>전장우</td>
+      <td>기획 및 어플리케이션 개발</td>
+    </tr>
+    <tr>
+      <td>어은지</td>
+      <td>기획 및 어플리케이션 개발</td>
+    </tr>
+    <tr>
+      <td>남명준</td>
+      <td>어플리케이션 개발</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 나의 역할
