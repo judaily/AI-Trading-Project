@@ -8,30 +8,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>텍스트 복사 예제</title>
+    <title</title>
 </head>
 <body>
-    <p id="copyText">복사할 텍스트를 입력하세요.</p>
-    <button onclick="copyToClipboard()">복사하기</button>
+    <p id="copyText"></p>
+    <button onclick="copyToClipboard()"></button>
 
-    <script>
-        function copyToClipboard() {
-            const textToCopy = document.getElementById("copyText").innerText;
-            
-            // 임시 입력 요소 생성
-            const tempInput = document.createElement("textarea");
-            tempInput.value = textToCopy;
-            document.body.appendChild(tempInput);
-            
-            // 텍스트 선택 및 복사
-            tempInput.select();
-            document.execCommand("copy");
-            
-            // 임시 입력 요소 제거
-            document.body.removeChild(tempInput);
-            
-            alert("텍스트가 복사되었습니다: " + textToCopy);
-        }
+    ----
     </script>
 </body>
 </html>
