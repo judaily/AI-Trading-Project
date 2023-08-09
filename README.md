@@ -16,17 +16,16 @@
     <script>
         function copyToClipboard() {
             const textToCopy = "----";
-            const tempInput = document.createElement("textarea");
-            tempInput.value = textToCopy;
-            document.body.appendChild(tempInput);
-            tempInput.select();
-            document.execCommand("copy");
-            document.body.removeChild(tempInput);
-            alert("텍스트가 복사되었습니다: " + textToCopy);
+            navigator.clipboard.writeText(textToCopy).then(function() {
+                alert("텍스트가 복사되었습니다: " + textToCopy);
+            }).catch(function(err) {
+                console.error('복사 실패: ', err);
+            });
         }
     </script>
 </body>
 </html>
+
 
 
 
