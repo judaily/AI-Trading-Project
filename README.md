@@ -7,14 +7,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title</title>
+    <title>복사 가능한 코드</title>
 </head>
 <body>
-    <p id="copyText"></p>
-    <button onclick="copyToClipboard()"></button>
-    ----
+    <p id="copyText">----</p>
+    <button onclick="copyToClipboard()">복사하기</button>
+
+    <script>
+        function copyToClipboard() {
+            const textToCopy = document.getElementById("copyText").innerText;
+            const tempInput = document.createElement("textarea");
+            tempInput.value = textToCopy;
+            document.body.appendChild(tempInput);
+            tempInput.select();
+            document.execCommand("copy");
+            document.body.removeChild(tempInput);
+            alert("텍스트가 복사되었습니다: " + textToCopy);
+        }
+    </script>
 </body>
 </html>
+
 
 
 ## 구성원
