@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>복사 가능한 코드</title>
+    <title></title>
 </head>
 <body>
     <p id="copyText">----</p>
@@ -27,6 +27,8 @@
     </script>
 </body>
 </html>
+
+
 
 
 
