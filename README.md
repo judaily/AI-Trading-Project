@@ -8,50 +8,6 @@
 ----
 
 ## 구성원
-
- 
- 과거/실시간 주식 데이터 전처리, 강화학습 모델 구현
- 과거/실시간 뉴스 전처리 (자연어 처리) 후 코버트 모델 구현 후 적용 시킴
- 클라우드, 리눅스 환경 생성
- 실시간/과거 주가 데이터 수집 , DB연동, 데이터보관, 데이터 수집 자동화
- CNN 모델 구현
- 데이터를 64bit 환경으로 보내기 위한 레디스와 python 연동
- 과거/실시간 뉴스 크롤링, DB연동, 데이터보관, 웹 사이트 구현
- 자료조사, 모델링
-
-<table>
-  <tbody>
-|제목|내용|설명|
-|------|---|
-||주식 보조 지표, 강화학습 모델 구현|
-|김단비|테스트2|
-|민유진|테스트2|
-|박명윤|테스트2|
-|박수연|테스트2|
-|여주원|테스트2|
-|윤광현|테스트2|
-|이예정|테스트2|
-|이창민|테스트2|
-
- </tbody>
-</table>
-
-<table>
-  <tbody>
-    <td>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b> 정윤영 (팀장) </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 김단비 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 민유진 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 박명윤 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 박수연 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 여주원 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 윤광현 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 이예정 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> 이창민 </b></sub></a><br /></td>
-    </td>
-  </tbody>
-</table>
-
 <table>
   <thead>
     <tr>
@@ -61,23 +17,46 @@
   </thead>
   <tbody>
     <tr>
-      <td>배현지</td>
-      <td>어플리케이션 개발</td>
+      <td>정윤영 (팀장)</td>
+      <td>주식 보조 지표, 강화학습 모델 구현</td>
     </tr>
     <tr>
-      <td>전장우</td>
-      <td>기획 및 어플리케이션 개발</td>
+      <td>김단비</td>
+      <td>과거/실시간 주식 데이터 전처리, 강화학습 모델 구현</td>
     </tr>
     <tr>
-      <td>어은지</td>
-      <td>기획 및 어플리케이션 개발</td>
+      <td>민유진</td>
+      <td>과거/실시간 뉴스 전처리 (자연어 처리) 후 코버트 모델 구현 후 적용 시킴</td>
     </tr>
     <tr>
-      <td>남명준</td>
-      <td>어플리케이션 개발</td>
+      <td>박명윤</td>
+      <td>클라우드, 리눅스 환경 생성</td>
+    </tr>
+    <tr>
+      <td>박수연</td>
+      <td>실시간/과거 주가 데이터 수집, DB연동, 데이터보관, 데이터 수집 자동화</td>
+    </tr>
+    <tr>
+      <td>여주원</td>
+      <td>CNN 모델 구현</td>
+    </tr>
+    <tr>
+      <td>윤광현</td>
+      <td>데이터를 64bit 환경으로 보내기 위한 레디스와 python 연동</td>
+    </tr>
+    <tr>
+      <td>이예정</td>
+      <td>과거/실시간 뉴스 크롤링, DB연동, 데이터보관, 웹 사이트 구현</td>
+    </tr>
+    <tr>
+      <td>이창민</td>
+      <td>자료조사, 모델링</td>
     </tr>
   </tbody>
 </table>
+
+ 
+
 
 
 ## 나의 역할
