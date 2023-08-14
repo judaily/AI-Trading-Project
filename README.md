@@ -1,4 +1,5 @@
 # AI-Trading-Project
+![프로젝트 아키텍처](https://github.com/judaily/AI-Trading-Project/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
 
 ## Description
 빅데이터 기반 AI알고리즘 16기 1조 (피스메이커) - 증권사 API를 이용한 자동 매수/매도 시스템
@@ -51,12 +52,11 @@
   </tbody>
 </table>
 
- 
-
-
-
 ## 나의 역할
 CNN 아키텍처 설계와 구현, 주식 데이터의 전처리 및 변환, 모델 학습 및 평가 등
 
 데이터 특성을 고려한 CNN 설계하여 데이터를 시계열 형태로 전처리하고 주가 패턴 학습 <br> 
 CNN으로 학습한 주식 데이터를 강화학습으로 패턴 기반한 상승 및 하락 추세 예측
+
+
+
